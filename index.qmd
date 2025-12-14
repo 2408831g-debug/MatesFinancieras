@@ -9,7 +9,7 @@ El archivo html se encuentra en el siguiente
 [Link](https://2408831g-debug.github.io/MatesFinancieras/EjInteresSimple/FuncionesDeInteresSimple.html)
 
 El archivo pdf se encuentra en el siguiente
-[Link]
+[Link](https://2408831g-debug.github.io/MatesFinancieras/EjInteresSimple/FuncionesDeInteresSimple.pdf)
 
 El archivo qmd se encuentra en el siguiente
 [Link]
