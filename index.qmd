@@ -34,10 +34,10 @@ El archivo html de la presentacion de tablas de depreciacion
 
 # Ej. Anualidades convencionales
 El archivo html
-[Link]
+[Link](https://2408831g-debug.github.io/MatesFinancieras/FAnualidades/FuncionesAnualidadesC.html)
 
 El archivo pdf
-[Link]
+[Link](https://2408831g-debug.github.io/MatesFinancieras/FAnualidades/FuncionesAnualidadesC.pdf)
 
 El archivo qmd
-[Link]
+[Link](https://2408831g-debug.github.io/MatesFinancieras/FAnualidades/FuncionesAnualidadesC.qmd)
