@@ -12,17 +12,17 @@ El archivo pdf se encuentra en el siguiente
 [Link](https://2408831g-debug.github.io/MatesFinancieras/EjInteresSimple/FuncionesDeInteresSimple.pdf)
 
 El archivo qmd se encuentra en el siguiente
-[Link]
+[Link](https://2408831g-debug.github.io/MatesFinancieras/EjInteresSimple/FuncionesDeInteresSimple.qmd)
 
 # Ej. interes compuesto
 El archivo html se encuentra en el siguiente
-[Link]
+[Link](https://2408831g-debug.github.io/MatesFinancieras/EjInteresCompuesto/FuncionesDeInteresCompuesto.html)
 
 El archivo pdf se encuentra en el siguiete
-[Link]
+[Link](https://2408831g-debug.github.io/MatesFinancieras/EjInteresCompuesto/FuncionesDeInteresCompuesto.pdf)
 
 El archivo qmd se encuentra en el siguiente
-[Link]
+[Link](https://2408831g-debug.github.io/MatesFinancieras/EjInteresCompuesto/FuncionesDeInteresCompuesto.qmd)
 
 # Presentacion de CETES
 El archivo qmd de la presetacion de CETES
