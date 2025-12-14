@@ -26,17 +26,7 @@ El archivo qmd se encuentra en el siguiente
 
 # Presentacion de CETES
 El archivo qmd de la presetacion de CETES
-[Link]
-
-# Ej. interes compuesto
-El archivo html se encuentra en el siguiente
-[Link]
-
-El archivo pdf 
-[Link]()
-
-El archivo qmd
-[Link]
+[Link](https://2408831g-debug.github.io/MatesFinancieras/ExpoCETES/ExpoCETES.html)
 
 # Presentacion de Tablas de depreciacion
 El archivo qmd
