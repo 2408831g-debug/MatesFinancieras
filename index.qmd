@@ -29,8 +29,8 @@ El archivo qmd de la presetacion de CETES
 [Link](https://2408831g-debug.github.io/MatesFinancieras/ExpoCETES/ExpoCETES.html)
 
 # Presentacion de Tablas de depreciacion
-El archivo qmd
-[Link]
+El archivo html de la presentacion de tablas de depreciacion
+[Link](https://2408831g-debug.github.io/MatesFinancieras/ExpoTablasdeDepreciacion/Expotablasdedepreciacion.html)
 
 # Ej. Anualidades convencionales
 El archivo html
