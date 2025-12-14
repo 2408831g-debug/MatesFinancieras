@@ -1,0 +1,53 @@
+---
+title: "index"
+author: "Jaime Patricio Guido Rivera"
+format: html
+---
+
+# Ej. interes simple
+El archivo html se encuentra en el siguiente
+[Link](https://2408831g-debug.github.io/MatesFinancieras/EjInteresSimple/FuncionesDeInteresSimple.html)
+
+El archivo pdf se encuentra en el siguiente
+[Link]
+
+El archivo qmd se encuentra en el siguiente
+[Link]
+
+# Ej. interes compuesto
+El archivo html se encuentra en el siguiente
+[Link]
+
+El archivo pdf se encuentra en el siguiete
+[Link]
+
+El archivo qmd se encuentra en el siguiente
+[Link]
+
+# Presentacion de CETES
+El archivo qmd de la presetacion de CETES
+[Link]
+
+# Ej. interes compuesto
+El archivo html se encuentra en el siguiente
+[Link]
+
+El archivo pdf 
+[Link]()
+
+El archivo qmd
+[Link]
+
+# Presentacion de Tablas de depreciacion
+El archivo qmd
+[Link]
+
+# Ej. Anualidades convencionales
+El archivo html
+[Link]
+
+El archivo pdf
+[Link]
+
+El archivo qmd
+[Link]
